@@ -32,6 +32,8 @@ public class Main {
         driver.findElement(By.id(Constant.EMAIL)).sendKeys("adam.gatdula2836@gmail.com");
         driver.findElement(By.id(Constant.PASSWORD)).sendKeys("adamgatdula8!");
         driver.findElement(By.id(Constant.REPASSWORD)).sendKeys("adamgatdula8!");
+		
+		//try test again
 
 
 
